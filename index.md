@@ -17,6 +17,9 @@ You must track you best lifts of each main exercise. The app will calculate the 
 This app give you the tools to easily know the intensity of your workout and you will know if you are improving or not.
 
 ## Changelist
+### 1.3.0 - 29 sep, 20
+- 🏆 Discover your personal records in each exercise easy!
+- 🐛 Now with fewer bugs, or that's the idea.
 ### 1.2.1 - 6 mar, 20
 - 💪 Now you can record your lifts more accurately thanks to the decimals. What a great invention!
 - 🐛 Fix some small errors that only I can see.
